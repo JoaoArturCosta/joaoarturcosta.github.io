@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name":"João Costa",
+    "occupation":"Full Stack Web Developer",
+    "description":"with a great focus on UI/UX ",
+    "image":"profilepic.jpg",
+    "bio":"I'm a proactive and dynamic person with a great passion for Web Development with a special interest for great UI/UX. I've been developing with C# (.NETFramework and Core) and Javascript (Angular and React). Great Passion for Music and Consumer Oriented Tech",
+    "contactmessage":"If you would like to get in contact with me, here's how to do it",
+    "email": "joaoartursilvacosta@gmail.com",
+    "phone": "+351 912866937",
+    "address":{
+      "street":"Rua Professor Sousa Júnior ",
+      "city":"Porto",
+      "state":"Porto",
+      "zip": "4250-478"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/open?id=1PPNKo12jknPo1v7uHVredvc-F9FbMaE1",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/JoaoTweettings",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jo%C3%A3o-costa-8b112110b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/joaoasilvacosta/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/nffFMPluhoea",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of my experiences so far",
+    "education":[
+      {
+        "school":"Faculdade de Engenharia da Universidade do Porto",
+        "degree":"Masters in Eletrotechnical Engineering - Telecomunications",
+        "graduated":"onGoing",
+        "description":"Got to learn how to work in Sprints, Project management and developed mainly in Java, PHP and SQL"
+      },
+      {
+        "school":"Instituto Superior de Engenharia do Porto",
+        "degree":"Bachelors in Eletrotechnical Engineering",
+        "graduated":"September 2016",
+        "description":"Microcontrollers and PLC programming. Network Management and Implementation. C,CSS ,MySQL,Java and HTML5 developing .Graduation project using C++ to develop Raspberry Pi interaction app. "
+      }
+    ],
+    "work":[
+      
+      {
+        "company":"Natixis Corporate and Investment Banking",
+        "title":"Web Developer",
+        "years":"October 2017- Present",
+        "description":"Taking care of Fenergo Integration with Natixis systems. Main technologies used are .NETFramework, AngularJS, ReactJS and SQL Server "
+      },
+      {
+        "company":"Natixis Corporate and Investment Banking",
+        "title":"Summit Quality Assurance Junior Developer",
+        "years":"March 2017 - October 2018",
+        "description":"I was in charge of Developing Special needs tools to support IT Activities, for example building a tool capable of comparing different Outputs and present detailed information about what changed in the system, in order to support QA analysis. Mainly developed in C# and C++, with WPF taking care of UI  "
+      },
+      {
+        "company":"Cartão Solidário",
+        "title":"Volunteer",
+        "years":"August 2013",
+        "description":"I was a volunteer working on promoting Cartão Solidário"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"C#",
+        "level":"95%"
+      },
+      {
+        "name":"SQLServer",
+        "level":"80%"
+      },
+      {
+        "name":"Oracle SQL",
+        "level":"80%"
+      },
+      {
+        "name":"AngularJS",
+        "level":"40%"
+      },
+      {
+        "name":"C++",
+        "level":"85%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      
+    ]
+  }
+}
