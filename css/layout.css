@@ -117,7 +117,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: rgb(6, 122, 68); }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -242,7 +242,7 @@ ul#nav li.current a { color: rgb(6, 122, 68); }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: rgb(6, 122, 68); }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -251,7 +251,7 @@ ul#nav li.current a { color: rgb(6, 122, 68); }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid rgb(6, 122, 68);
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -558,7 +558,7 @@ ul#nav li.current a { color: rgb(6, 122, 68); }
    letter-spacing: 3px;
    cursor: pointer;
 }
-.popup-modal a:hover {	color: #00CCCC; }
+.popup-modal a:hover {	color: rgb(6, 122, 68); }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
 
