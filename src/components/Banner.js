@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { Container, Row, Col } from 'react-bootstrap'
+import { Container, Row, Col, ButtonToolbar } from 'react-bootstrap'
 import headerImg from '../assets/img/header-img.svg'
 import { ArrowRightCircle } from 'react-bootstrap-icons'
 import 'animate.css'
@@ -81,13 +81,13 @@ export const Banner = () => {
 										and MongoDB, with great emphasis on frontend development and
 										UI/UX design.
 									</p>
-									<button
-										onClick={() =>
-											(window.location.href =
-												'mailto:joaoartursilvacosta@gmail.com')
-										}>
-										Let’s Connect <ArrowRightCircle size={25} />
-									</button>
+									<a
+										href='https://drive.google.com/file/d/1UeehhefyfR-oFf6058DQq_rNGn30XcRx/view?usp=sharing'
+										target='_blank'>
+										<button>
+											Download CV <ArrowRightCircle size={25} />
+										</button>
+									</a>
 								</div>
 							)}
 						</TrackVisibility>
